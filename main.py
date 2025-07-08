@@ -75,7 +75,7 @@ def main(output_directory: str) -> None:
     dont_append_write_to_file(system_path=filename, content=response_text)
 
     # Notify the user that the file has been successfully saved
-    print(f"\nFull response saved to: {filename}")
+    print(f"Full response saved to: {filename}")
 
 
 # Ensure the script runs only when executed directly (not when imported)
