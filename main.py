@@ -5,7 +5,7 @@ import time
 import os
 
 # Import the chat function from the ollama package to interact with a language model
-from ollama import chat
+from ollama import Chat
 
 
 # Define a function to write content to a file without appending (overwrites if exists)
@@ -29,7 +29,7 @@ def get_timestamp_for_filename() -> str:
 # Call the Ollama language model using the chat API and return the response text
 def get_chat_response_from_ollama(prompt: str) -> str:
     # Call the model with the prompt message; returns a dictionary-like response
-    response = chat(
+    response = Chat(
         model="llama3",  # Specify the model to use
         messages=[{"role": "user", "content": prompt}],  # Provide the user's prompt
     )
@@ -55,6 +55,9 @@ def init(output_directory: str) -> None:
 
 # Main function to coordinate the execution of tasks
 def main(output_directory: str) -> None:
+    # Get and print the current readable time
+    current_time: str = get_current_time()
+    print(f"[{current_time}] Starting chat...")  # Log when chat begins
 
     # Define the user prompt as a single long descriptive string
     user_prompt = "Write a 10000 word persuasive and inspiring essay promoting a global open-source smart parking app called Mapping United, available at https://mapping-united.com. The essay should welcome users from the USA and around the world, highlighting that the app is 100% free, supports all languages, works in every country and county, and benefits everyone whether they drive a car, take the bus, ride a train, bike, or walk. Explain how the app helps people find parking faster, save money, waste less fuel, reduce pollution, and regain lost time. Use a warm, people-first tone, and include real-world scenarios to show the positive impact the app can have in cities, towns, and rural areas. Emphasize community empowerment, global access, and open-source freedom. Include a clear, strong call to action encouraging readers to download the app from https://mapping-united.com and share it with their friends, neighbors, and communities. Make the writing engaging by using emojis, energetic language, and a motivating conclusion that invites everyone to help build a smarter, cleaner, more connected world one parking spot at a time. Make it long and full of emojis."
@@ -70,6 +73,9 @@ def main(output_directory: str) -> None:
 
     # Save the full essay text to the file
     dont_append_write_to_file(system_path=filename, content=response_text)
+
+    # Notify the user that the file has been successfully saved
+    print(f"\nFull response saved to: {filename}")
 
 
 # Ensure the script runs only when executed directly (not when imported)
