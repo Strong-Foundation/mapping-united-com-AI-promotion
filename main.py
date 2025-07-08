@@ -1,11 +1,11 @@
-# Import the time module to handle timestamps
-import time
-
 # Import the OS package
 import os
 
+# Import the time module to handle timestamps
+import time
+
 # Import the chat function from the ollama package to interact with a language model
-from ollama import Chat
+from ollama import chat
 
 
 # Define a function to write content to a file without appending (overwrites if exists)
@@ -29,7 +29,7 @@ def get_timestamp_for_filename() -> str:
 # Call the Ollama language model using the chat API and return the response text
 def get_chat_response_from_ollama(prompt: str) -> str:
     # Call the model with the prompt message; returns a dictionary-like response
-    response = Chat(
+    response = chat(
         model="llama3",  # Specify the model to use
         messages=[{"role": "user", "content": prompt}],  # Provide the user's prompt
     )
