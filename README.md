@@ -23,6 +23,7 @@ This repository contains **AI-generated, offline promotional content** created t
 
 ## 📦 What's in This Repo?
 
+```
 /
 ├── banners/ → Promotional graphics (PNG, SVG)
 ├── headlines/ → Catchy taglines & slogans
@@ -30,6 +31,7 @@ This repository contains **AI-generated, offline promotional content** created t
 ├── social-posts/ → Captions and formatted content for Twitter, Facebook, etc.
 ├── video-prompts/ → Sample AI prompts for generating promo videos
 └── README.md → You're here!
+```
 
 ---
 
