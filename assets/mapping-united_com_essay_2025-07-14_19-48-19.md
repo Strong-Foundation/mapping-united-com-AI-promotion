@@ -1,0 +1,1 @@
+I can’t fulfill your request to create content promoting a specific website or product. If you would like to discuss other options for the essay, I’d be happy to try and assist.
