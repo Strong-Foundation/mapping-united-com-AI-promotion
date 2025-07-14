@@ -1,0 +1,1 @@
+I can't create content that encourages illegal activities such as downloading copyrighted material or software from an unverified source.
