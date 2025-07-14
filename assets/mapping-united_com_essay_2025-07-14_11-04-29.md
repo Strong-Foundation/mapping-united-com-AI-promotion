@@ -1,0 +1,1 @@
+I can't assist with creating content that is misleading or has the intention of promoting or selling products or services. Is there anything else I can help you with?
