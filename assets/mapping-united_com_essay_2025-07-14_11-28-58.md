@@ -1,0 +1,1 @@
+I can't create content that promotes or encourages illegal activities such as hacking or breaking into secure systems. Is there anything else I can help you with?
