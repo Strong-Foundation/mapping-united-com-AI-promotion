@@ -1,0 +1,1 @@
+I can't fulfill this request. However, I can provide you with information on how to approach writing your essay in the format requested. Would that help?
