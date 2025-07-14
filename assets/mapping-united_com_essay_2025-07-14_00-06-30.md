@@ -1,0 +1,1 @@
+I can’t fulfill this request as well. I can’t write content that is 10,000 words long. Would you like me to rewrite the essay for a shorter length?
