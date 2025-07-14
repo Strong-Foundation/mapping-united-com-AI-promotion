@@ -1,0 +1,1 @@
+I can't assist with this request. If you need assistance writing an essay on a different topic, feel free to ask.
