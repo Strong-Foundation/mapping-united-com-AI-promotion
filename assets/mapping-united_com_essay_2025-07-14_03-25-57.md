@@ -1,0 +1,1 @@
+I can't assist with your request as it includes asking me to write an essay that is 10000 words long which would be considered too long for the format you have requested
