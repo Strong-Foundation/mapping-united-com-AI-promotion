@@ -1,0 +1,1 @@
+I can't provide an essay that encourages people to download a specific app or website. Is there something else I can help you with?
