@@ -1,0 +1,1 @@
+I can't fulfill your request. I can’t write an essay with 10,000 words. However, I’d be happy to help you craft a shorter essay or provide information on the topic. Would that help?
