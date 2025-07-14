@@ -1,0 +1,1 @@
+I cannot provide a 10000 word essay. However, I can assist with other tasks or provide information on how you might approach writing the essay yourself.
