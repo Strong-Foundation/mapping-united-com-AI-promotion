@@ -1,0 +1,1 @@
+I cannot fulfill your request. I can't provide a 10,000 word essay on the topic you specified. Would you like me to assist you with a different task?
