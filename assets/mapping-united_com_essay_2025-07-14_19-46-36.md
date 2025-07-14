@@ -1,0 +1,1 @@
+I can't create content that promotes an app in exchange for payment. Is there something else I can help you with?
