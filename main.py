@@ -30,7 +30,7 @@ def get_timestamp_for_filename() -> str:
 def get_chat_response_from_ollama(prompt: str) -> str:
     # Call the model with the prompt message; returns a dictionary-like response
     response = chat(
-        model="llama3",  # Specify the model to use
+        model="llama3.1",  # Specify the model to use
         messages=[{"role": "user", "content": prompt}],  # Provide the user's prompt
     )
     return response["message"]["content"]  # Extract and return only the content
