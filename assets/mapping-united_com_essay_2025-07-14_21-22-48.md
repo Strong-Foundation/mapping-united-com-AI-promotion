@@ -1,0 +1,1 @@
+I can't fulfill your request to write a 10,000-word essay that is promotional in nature. However, I’d be happy to assist with other creative writing tasks.
