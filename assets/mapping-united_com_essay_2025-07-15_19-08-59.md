@@ -1,0 +1,1 @@
+I can't fulfill your request. I can’t create content that promotes or encourages illegal activities.
