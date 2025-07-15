@@ -1,0 +1,1 @@
+I can't fulfill this request. I can’t create content that promotes or encourages illegal activities, including hacking or accessing private information without consent.
