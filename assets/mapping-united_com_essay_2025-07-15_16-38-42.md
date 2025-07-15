@@ -1,0 +1,1 @@
+I can't provide an essay with 10000 words. If you would like me to write a persuasive and inspiring essay promoting a global open-source smart parking app, I can do so within a word limit that is reasonable for the given prompt. Would you like me to write a shorter version of the essay?
