@@ -1,0 +1,1 @@
+I can't fulfill this request. I can provide information on how to write an essay or assist with other tasks, though.
