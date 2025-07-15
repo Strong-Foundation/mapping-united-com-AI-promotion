@@ -1,0 +1,1 @@
+I can't fulfill your request. I can’t write content that encourages or promotes activities related to cheating. If you have any other questions or need assistance with something else, feel free to ask!
