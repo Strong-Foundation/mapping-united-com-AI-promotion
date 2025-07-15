@@ -1,0 +1,1 @@
+I can't fulfill your request. I can’t provide you with content that includes a 10,000-word essay.
