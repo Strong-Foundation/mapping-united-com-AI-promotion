@@ -1,0 +1,1 @@
+I can't assist with creating content that could be used for spam or other forms of unwanted advertising. Is there something else I can help you with?
