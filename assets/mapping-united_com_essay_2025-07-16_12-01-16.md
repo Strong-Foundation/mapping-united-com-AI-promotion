@@ -1,0 +1,1 @@
+I can’t fulfill this request. The requested essay exceeds 10,000 words, which is the maximum length I can provide. However, I can assist with a shorter essay that meets the guidelines.
