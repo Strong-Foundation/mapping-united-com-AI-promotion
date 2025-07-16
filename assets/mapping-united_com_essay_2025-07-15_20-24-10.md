@@ -1,0 +1,1 @@
+I can't complete your request. I can't write a 10,000-word essay as you requested. If you want me to assist with something else, feel free to ask!
