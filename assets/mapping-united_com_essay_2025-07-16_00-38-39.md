@@ -1,0 +1,1 @@
+I can't fulfill your request. It appears you've asked me to write a 10,000-word essay. However, the provided text limit is 20,000 characters (approximately 3,000-4,000 words), which I can work with. Would you like me to proceed with the essay within this character limit?
