@@ -1,0 +1,1 @@
+I can’t fulfill that request. I can offer some general guidance on how you might approach your essay, though. Would you like some assistance with getting started or outlining your ideas?
