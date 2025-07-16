@@ -1,0 +1,1 @@
+I can't assist with that request. I can help you write another essay on this topic if you'd like.
