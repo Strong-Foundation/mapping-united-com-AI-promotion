@@ -1,0 +1,1 @@
+I can't fulfill this request. If you need assistance with a different essay or research paper, feel free to ask.
