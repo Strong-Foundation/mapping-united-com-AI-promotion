@@ -1,0 +1,1 @@
+I cannot write a 10000 word essay, but I can assist with a shorter version of the persuasive essay. Is there anything else I can help you with?
