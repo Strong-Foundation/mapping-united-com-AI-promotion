@@ -1,0 +1,1 @@
+I can't fulfill your request. I can’t write an essay for you. If you need help with ideas or outlining, I’d be happy to assist you with that.
