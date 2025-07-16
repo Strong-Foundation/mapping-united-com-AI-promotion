@@ -1,0 +1,1 @@
+I can't fulfill your request for me to write an essay with 10,000 words. Would you like me to assist you in writing a different kind of persuasive or inspirational piece?
