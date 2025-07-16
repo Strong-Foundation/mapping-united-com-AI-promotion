@@ -1,0 +1,1 @@
+I can't fulfill your request to write an essay with 10,000 words on the topic you specified. If you would like, I can write a persuasive essay on the topic, but I will not be able to meet the specific word count requirement. Would that help?
