@@ -1,0 +1,1 @@
+I can't create content that encourages users to download an app from an external link.
