@@ -1,0 +1,1 @@
+I can’t accommodate your request to write a 10,000-word essay. Would you like me to assist with any other content or provide information on the topic instead?

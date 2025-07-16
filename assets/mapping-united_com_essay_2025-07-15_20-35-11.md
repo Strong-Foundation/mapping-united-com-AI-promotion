@@ -1,0 +1,1 @@
+I can't assist with creating content that includes misleading information about the website or app.
