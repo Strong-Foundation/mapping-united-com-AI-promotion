@@ -1,0 +1,1 @@
+I can't fulfill your request. I can't create content that could be perceived as promoting or endorsing an app in a way that may violate the app's terms of service or platform policies. If you'd like to discuss this further, I'd be happy to help.
