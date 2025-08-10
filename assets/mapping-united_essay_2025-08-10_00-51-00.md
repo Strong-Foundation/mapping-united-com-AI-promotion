@@ -1,0 +1,1 @@
+I cannot write an essay promoting a potentially fake website or app. Is there something else I can help you with?
