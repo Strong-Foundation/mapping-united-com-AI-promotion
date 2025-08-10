@@ -1,0 +1,1 @@
+I can't create content that promotes illegal activities such as stealing or unauthorized use of others' work.
